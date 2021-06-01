@@ -1,0 +1,13 @@
+@setup:
+    s="\n";  ## newline const to concat between screen lines
+    chip=CHIP_NUM   ## will define a replacer to overwrite this
+
+@render:
+    :S_00=
+        :FB_00A+s+
+        :FB_00B+s+
+        :FB_00C+s+
+        :FB_00D+s+
+        :FB_00E+s+
+        :FB_00F;
+    goto render

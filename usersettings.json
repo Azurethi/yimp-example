@@ -1,0 +1,41 @@
+{
+    "init": true,
+    "positions": {
+        "code": {
+            "line1": {
+                "x": 431,
+                "y": 340
+            },
+            "line20": {
+                "x": 455,
+                "y": 742
+            }
+        },
+        "tools": {
+            "moveTool": {
+                "x": 1754,
+                "y": 135
+            },
+            "properties": {
+                "topField": {
+                    "x": 1685,
+                    "y": 555
+                },
+                "nextDevice": {
+                    "x": 1805,
+                    "y": 478
+                }
+            }
+        },
+        "chips": {
+            "yolol_chip": {
+                "x": 1265,
+                "y": 426
+            },
+            "memory_chip": {
+                "x": 890,
+                "y": 581
+            }
+        }
+    }
+}

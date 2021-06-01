@@ -1,0 +1,7 @@
+s="\n" chip=CHIP_NUM
+:S_00=:FB_00A+s+:FB_00B+s+:FB_00C+s+:FB_00D+s+:FB_00E+s+:FB_00F goto 2
+
+// <-------------- this line is 70 characters long ------------------>
+//yasm assmbler output:
+//  >Done (40ms)
+//  >
