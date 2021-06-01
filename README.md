@@ -83,7 +83,7 @@ Now you're ready to go! Press numpad 9 once to see the info on the section you'r
 
 If you need to interupt the paster for any reason (it may occasionally mess up if it's running too fast & you encounter a lag spike), you can use the section & skip calls to get back to where you left off!
 
-## end result
+## End result
 
 the system in starbase.
 
